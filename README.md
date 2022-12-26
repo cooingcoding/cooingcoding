@@ -7,7 +7,7 @@
 
 🎓 
 
-📌 E-mail : kimky944@gmail.com
+📌 E-mail : ismybetterlife@gmail.com
 
 📰 Portfolio :
 
