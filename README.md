@@ -1,2 +1,1 @@
-![readme](https://user-images.githubusercontent.com/119795609/213848588-5477e3eb-540c-4f2c-8e09-9b892563dcda.png)
-
+![깃리드미](https://user-images.githubusercontent.com/119795609/213849175-e91d08b8-384a-4391-a62d-28bdb3258c33.jpg)
