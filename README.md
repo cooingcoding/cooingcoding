@@ -2,3 +2,4 @@
 
 https://stackoverflow.com/questions/39156001/javascript-functions-accessing-sqlite-db
 이거보고 DB성공시키기 02/03~02/05
+flask로 해보기
